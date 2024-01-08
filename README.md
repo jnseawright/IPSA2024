@@ -1,5 +1,7 @@
 ## IPSA 2024 Sao Paulo Mixed-Method Course Materials
 
+![](practicemm.jpg?raw=true)
+
 ### Regression and Case Studies
 
 Slides:
@@ -31,10 +33,10 @@ Slides:
 Labs:
 
 * [Monday](https://jnseawright.github.io/IPSA2024/Extensions%20Labs/IPSA%202024%20Lab%206.pdf)
-* [Tuesday](https://jnseawright.github.io/IPSA2024/Regression%20and%20Case%20Studies%20Labs/IPSA%202024%20Lab%202.pdf) 
-* [Wednesday](https://jnseawright.github.io/IPSA2024/Regression%20and%20Case%20Studies%20Labs/IPSA%202024%20Lab%203.pdf)
-* [Thursday](https://jnseawright.github.io/IPSA2024/Regression%20and%20Case%20Studies%20Labs/IPSA%202024%20Lab%204.pdf)
-* [Friday](https://jnseawright.github.io/IPSA2024/Regression%20and%20Case%20Studies%20Labs/IPSA%202024%20Lab%205.pdf) 
+* [Tuesday](https://jnseawright.github.io/IPSA2024/Extensions%20Labs/IPSA%202024%20Lab%207.pdf) 
+* [Wednesday](https://jnseawright.github.io/IPSA2024/Extensions%20Labs/IPSA%202024%20Lab%208.pdf)
+* [Thursday](https://jnseawright.github.io/IPSA2024/Extensions%20Labs/IPSA%202024%20Lab%209.pdf)
+* [Friday](https://jnseawright.github.io/IPSA2024/Extensions%20Labs/IPSA%202024%20Lab%210.pdf) 
 
 
 
