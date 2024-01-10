@@ -36,7 +36,7 @@ Labs:
 * [Tuesday](https://jnseawright.github.io/IPSA2024/Extensions%20Labs/IPSA%202024%20Lab%207.pdf) 
 * [Wednesday](https://jnseawright.github.io/IPSA2024/Extensions%20Labs/IPSA%202024%20Lab%208.pdf)
 * [Thursday](https://jnseawright.github.io/IPSA2024/Extensions%20Labs/IPSA%202024%20Lab%209.pdf)
-* [Friday](https://jnseawright.github.io/IPSA2024/Extensions%20Labs/IPSA%202024%20Lab%210.pdf) 
+* [Friday](https://jnseawright.github.io/IPSA2024/Extensions%20Labs/IPSA%202024%20Lab%2010.pdf) 
 
 
 
